@@ -1,0 +1,44 @@
+====== RELATÓRIO GERAL DA INDÚSTRIA ======
+
+🔹 Funcionários do Setor 1:
+   {"id":1,"nomeFuncionario":"Carlos Silva","setor":"null""cargo":"Analista de Produção"}
+   {"id":3,"nomeFuncionario":"Roberto Souza","setor":"null""cargo":"Supervisor de Produção"}
+   {"id":7,"nomeFuncionario":"Paulo Santos","setor":"null""cargo":"Técnico de Manutenção"}
+   {"id":9,"nomeFuncionario":"Ricardo Martins","setor":"null""cargo":"Supervisor de Produção"}
+   {"id":11,"nomeFuncionario":"Pedro Azevedo","setor":"null""cargo":"Coordenador de Produção"}
+   {"id":13,"nomeFuncionario":"Lucas Pinto","setor":"null""cargo":"Analista de TI"}
+   {"id":15,"nomeFuncionario":"Vinícius Lima","setor":"null""cargo":"Técnico de Produção"}
+   {"id":17,"nomeFuncionario":"José Ramos","setor":"null""cargo":"Gerente de Produção"}
+   {"id":19,"nomeFuncionario":"Eduardo Barbosa","setor":"null""cargo":"Assistente de Produção"}
+   {"id":22,"nomeFuncionario":"Hugo","setor":"null""cargo":"Analista"}
+   {"id":24,"nomeFuncionario":"Marcus","setor":"null""cargo":"Produção"}
+
+🔹 Produções em 2025-06-20:
+
+🔹 Produtos produzidos pelo Funcionário ID 1:
+
+🔹 Funcionários, Setores e Produções:
+   Carlos Silva | Produção | 100 unidades em 2023-06-01
+   Roberto Souza | Produção | 150 unidades em 2023-06-03
+   Paulo Santos | Produção | 140 unidades em 2023-06-07
+   Ricardo Martins | Produção | 160 unidades em 2023-06-09
+   Pedro Azevedo | Produção | 190 unidades em 2023-06-11
+   Lucas Pinto | Produção | 140 unidades em 2023-06-13
+   Vinícius Lima | Produção | 200 unidades em 2023-06-15
+   José Ramos | Produção | 150 unidades em 2023-06-17
+   Eduardo Barbosa | Produção | 110 unidades em 2023-06-19
+   Ana Costa | Vendas | 200 unidades em 2023-06-02
+   Marcos Pereira | Vendas | 180 unidades em 2023-06-05
+   Claudia Lima | Vendas | 110 unidades em 2023-06-08
+   Gabriela Nunes | Vendas | 120 unidades em 2023-06-14
+   Tatiane Duarte | Vendas | 160 unidades em 2023-06-18
+   Julia Almeida | Administração | 120 unidades em 2023-06-04
+   Julia Almeida | Administração | 100 unidades em 2020-12-01
+   Fernanda Oliveira | Administração | 130 unidades em 2023-06-06
+   Camila Rocha | Administração | 170 unidades em 2023-06-10
+   Larissa Fonseca | Administração | 210 unidades em 2023-06-12
+   Luana Pereira | Administração | 180 unidades em 2023-06-16
+
+🔹 Detalhes da produção em 2025-06-20:
+
+====== FIM DO RELATÓRIO ======
